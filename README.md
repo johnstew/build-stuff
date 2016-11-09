@@ -11,7 +11,7 @@ Goal is pretty simple. We are going to build a lot of stuff. Let's get started.
   - **Looking For**
     - Good folder structure and file naming.
     - Well written and formatted JS.
-    - Use Node.js web server to server files.
+    - Use Node.js web server to serve your files.
   - **Bonus**
     - When a user clicks on the marker create a popup that displays the information about location.
 
